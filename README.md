@@ -1,8 +1,8 @@
 ### Olá, sou o Sérgio Francisco e este é meu GitHub 👋
 <div style="display: inline_block">
   <a href="https://github.com/SerjoFrancisco">
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=SerjoFrancisco&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerjoFrancisco&layout=compact&langs_count=7&theme=dracula"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api?username=SerjoFrancisco&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img width="49%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SerjoFrancisco&layout=compact&theme=algolia"/>
 </div>
   <div style="display: inline_block"><br>
     <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="Js-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank"></a>
