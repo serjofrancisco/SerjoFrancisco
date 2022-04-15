@@ -8,6 +8,8 @@
     <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="Js-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank"></a>
    <a href="https://pt-br.reactjs.org/">
     <img align="center" alt="React-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
+    <a href="https://redux.js.org/">
+    <img align="center" alt="Redux-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></a>
    <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML">
   <img align="center" alt="HTML-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
     <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS">
