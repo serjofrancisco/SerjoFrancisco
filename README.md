@@ -14,6 +14,8 @@ Também sou Fundador do <a href="https://www.instagram.com/complexo.consciencia/
   <img align="center" alt="HTML-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
     <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS">
   <img align="center" alt="CSS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
+  <a href = "https://nodejs.org/en/">
+  <img align="center" alt="Node-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
   </div>
 <div style="display: inline_block"><br>
   <span>Contatos:</span>
