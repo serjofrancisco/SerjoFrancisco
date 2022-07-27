@@ -10,12 +10,15 @@ Também sou Fundador do <a href="https://www.instagram.com/complexo.consciencia/
     <img align="center" alt="React-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
     <a href="https://redux.js.org/">
     <img align="center" alt="Redux-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></a>
-   <a href = "https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img align="center" alt="HTML-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"></a>
-    <a href = "https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img align="center" alt="CSS-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a>
-  <a href = "https://nodejs.org/en/">
   <img align="center" alt="Node-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a>
+  <a href = "https://www.typescriptlang.org/">
+  <img align="center" alt="TS-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
+
+  <a href = "https://www.docker.com/">
+  <img align="center" alt="Docker-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg"></a>
+ 
+  <a href = "https://sequelize.org/">
+  <img align="center" alt="Sequelize-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg"></a>
   </div>
 <div style="display: inline_block"><br>
   <span>Contatos:</span>
