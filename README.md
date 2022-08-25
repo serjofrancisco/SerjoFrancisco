@@ -1,4 +1,4 @@
-### Olá, sou o Sérgio Francisco e este é meu GitHub 👋
+### Olá, sou o Sérgio Francisco 👋
   <div style="display: inline_block"><br>
    <p>
     Apaixonado por resolver problemas, tecnologia e educação. 
