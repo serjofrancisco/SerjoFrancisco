@@ -1,8 +1,9 @@
 ### Olá, sou o Sérgio Francisco e este é meu GitHub 👋
   <div style="display: inline_block"><br>
    <p>
-    Trabalhei com educação por um tempo. E agora decidi passar a trabalhar com tecnologia, estou estudando desenvolvimento Web na Trybe para me preparar para esse mercado. Onde Já estudei, Javascript, CSS, HTML, Testes com Jest e RTL, React, Redux e no momento estou no módulo de BackEnd, onde estudo docker, SQL, node.js, NOsql, POO, SOLID e CI/CD além de estudar softskills durante todo o curso, desde comunicação a metodologias ágeis.
-Também sou Fundador do <a href="https://www.instagram.com/complexo.consciencia/">Projeto Complexo ConsCiência</a>, onde ajudamos a colocar alunos pobres moradores do Complexo da Penha na Universidade Pública. 
+    Apaixonado por resolver problemas, tecnologia e educação. 
+Educação e tecnologia por eu acreditar serem os pilares para desenvolver uma sociedade melhor e por isso fundei o projeto <a href="https://www.instagram.com/complexo.consciencia/">Projeto Complexo ConsCiência</a>, onde ajudamos a colocar alunos pobres moradores do Complexo da Penha na Universidade Pública. 
+E Resolver problemas simplesmente pelo prazer do processo. 
   </p>
 <h1>🛠 Tecnologias</h1>
     <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="Js-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank"></a>
