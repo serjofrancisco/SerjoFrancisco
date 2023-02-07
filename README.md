@@ -1,9 +1,9 @@
 ### Olá, sou o Sérgio Francisco 👋
   <div style="display: inline_block"><br>
    <p>
-    Apaixonado por resolver problemas, tecnologia e educação. 
-Educação e tecnologia por eu acreditar serem os pilares para desenvolver uma sociedade melhor e por isso fundei o projeto <a href="https://www.instagram.com/complexo.consciencia/">Projeto Complexo ConsCiência</a>, onde ajudamos a colocar alunos pobres moradores do Complexo da Penha na Universidade Pública. 
-E Resolver problemas simplesmente pelo prazer do processo. 
+Web Developer focado em Backend, com experiência em .Net, Node.JS, API Rest e sempre pronto para outras tecnologias, não acredito que devo me limitar por elas pois meu foco é sempre estar aprendendo.
+
+Fundador do projeto  <a href="https://www.instagram.com/complexo.consciencia/">Projeto Complexo ConsCiência</a>,, onde ajudamos a colocar alunos pobres moradores do Complexo da Penha na Universidade Pública. 
   </p>
 <h1>🛠 Tecnologias</h1>
     <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="Js-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank"></a>
