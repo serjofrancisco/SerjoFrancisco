@@ -1,8 +1,7 @@
 ### Olá, sou o Sérgio Francisco 👋
   <div style="display: inline_block"><br>
    <p>
-Web Developer focado em Backend, com experiência em .Net, Node.JS, API Rest e sempre pronto para outras tecnologias, não acredito que devo me limitar por elas pois meu foco é sempre estar aprendendo.
-
+Web Developer com experiência em React, Node.JS, .Net
 Fundador do projeto  <a href="https://www.instagram.com/complexo.consciencia/">Projeto Complexo ConsCiência</a>,, onde ajudamos a colocar alunos pobres moradores do Complexo da Penha na Universidade Pública. 
   </p>
 <h1>🛠 Tecnologias</h1>
