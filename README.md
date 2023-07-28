@@ -1,8 +1,8 @@
 ### Olá, sou o Sérgio Francisco 👋
   <div style="display: inline_block"><br>
    <p>
-Web Developer com experiência em React, Node.JS, .Net
-Fundador do projeto  <a href="https://www.instagram.com/complexo.consciencia/">Projeto Complexo ConsCiência</a>,, onde ajudamos a colocar alunos pobres moradores do Complexo da Penha na Universidade Pública. 
+Developer with React, NextJS, Node, GO, and C# skills. I'm self-taught, using the contents of the Free Brazilian University (UBL) to learn more about computer science and programming, always eager to learn
+Fundador do <a href="https://www.instagram.com/complexo.consciencia/">Projeto Complexo ConsCiência</a>, onde ajudamos a colocar alunos pobres moradores do Complexo da Penha na Universidade Pública. 
   </p>
 <h1>🛠 Tecnologias</h1>
     <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="Js-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank"></a>
