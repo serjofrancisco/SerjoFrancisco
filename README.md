@@ -1,7 +1,7 @@
 ### Olá, sou o Sérgio Francisco 👋
   <div style="display: inline_block"><br>
    <p>
-Developer with React, NextJS, Node, GO, and C# skills. I'm self-taught, using the contents of the Free Brazilian University (UBL) to learn more about computer science and programming, and I am always eager to learn
+Developer with React, NextJS, Node, GO, and C# skills. I'm self-taught, using the contents of the Free Brazilian University (UBL) to learn more about computer science and programming, and I am always eager to learn.<br>
 Founder <a href="https://www.instagram.com/complexo.consciencia/">Projeto Complexo ConsCiência</a>, a project with the mission to help young people of Complexo da Penha enter public higher education. 
   </p>
 <h1>🛠 Tecnologies</h1>
