@@ -30,7 +30,7 @@ Founder <a href="https://www.instagram.com/complexo.consciencia/">Projeto Comple
 <div style="display: inline_block"><br>
   <h1>Contacts:</h1>
   
-- **[Meu Curriculo](https://gitconnected.com/serjofrancisco/resume)**
+- **[My Resume]([https://gitconnected.com/serjofrancisco/resume](https://docs.google.com/document/d/1V05aoB9gJFhzoZk0cYD4p3jDaBLBDb3hdpdTbBMCGHU/edit?usp=sharing))**
 
   <a href = "mailto:spinheiro.lf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor" target="_blank"></a>
   <a href="https://www.linkedin.com/in/sergio-francisco/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
