@@ -1,8 +1,8 @@
 ### Olá, sou o Sérgio Francisco 👋
   <div style="display: inline_block"><br>
    <p>
-Developer with React, NextJS, Node, GO, and C# skills. I'm self-taught, using the contents of the Free Brazilian University (UBL) to learn more about computer science and programming, always eager to learn
-Fundador do <a href="https://www.instagram.com/complexo.consciencia/">Projeto Complexo ConsCiência</a>, onde ajudamos a colocar alunos pobres moradores do Complexo da Penha na Universidade Pública. 
+Developer with React, NextJS, Node, GO, and C# skills. I'm self-taught, using the contents of the Free Brazilian University (UBL) to learn more about computer science and programming, and I am always eager to learn
+Founder <a href="https://www.instagram.com/complexo.consciencia/">Projeto Complexo ConsCiência</a>, a project with the mission to help young people of Complexo da Penha enter public higher education. 
   </p>
 <h1>🛠 Tecnologies</h1>
     <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img align="center" alt="Js-Logo" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" target="_blank"></a>
@@ -24,6 +24,8 @@ Fundador do <a href="https://www.instagram.com/complexo.consciencia/">Projeto Co
   <a href = "https://www.mysql.com/">
   <img align="center" alt="MySQL-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"></a>
   </div>
+
+  
   
 <div style="display: inline_block"><br>
   <h1>Contacts:</h1>
